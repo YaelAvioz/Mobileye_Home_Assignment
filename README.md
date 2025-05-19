@@ -73,10 +73,12 @@ python src/main.py [OPTIONS]
 python src/main.py --vehicles car truck --min-distance 1 --max-distance 50 --distance-bin-size 10 --min-frames 5 -v
 ```
 
+
 ## 🧭 Workflow Note
 
 * Run `setup_db.py` **inside the Docker container** to load the Parquet data into DuckDB.
 * Run `main.py` **from the host machine** to interact with the DuckDB instance and analyze detection success.
+
 
 
 ## ✅ Testing
