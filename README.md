@@ -11,6 +11,12 @@ A Python-based tool that calculates and exposes detection success rates for diff
 -  Supports flexible CLI filters (frame ranges, clip names, vehicle types, etc.)
 -  Includes unit tests for data loading and query logic
 
+## 🚀 Clone the repository
+
+```bash
+git clone git@github.com:YaelAvioz/Mobileye_Home_Assignment.git
+cd Mobileye_Home_Assignment
+````
 
 ## 🐳 Setup with Docker
 
